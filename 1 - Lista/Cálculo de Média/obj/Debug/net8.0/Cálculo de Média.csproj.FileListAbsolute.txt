@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\bin\Debug\net8.0\Cálculo de Média.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\bin\Debug\net8.0\Cálculo de Média.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\bin\Debug\net8.0\Cálculo de Média.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\bin\Debug\net8.0\Cálculo de Média.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\bin\Debug\net8.0\Cálculo de Média.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\Cálculo de Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\Cálculo de Média.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\Cálculo de Média.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\Cálculo de Média.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\Cálculo de Média.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\refint\Cálculo de Média.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\Cálculo de Média.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\Cálculo de Média.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Cálculo de Média\obj\Debug\net8.0\ref\Cálculo de Média.dll

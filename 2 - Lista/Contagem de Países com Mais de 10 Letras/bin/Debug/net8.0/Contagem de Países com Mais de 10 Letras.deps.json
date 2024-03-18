@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contagem de Países com Mais de 10 Letras/1.0.0": {
+        "runtime": {
+          "Contagem de Países com Mais de 10 Letras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contagem de Países com Mais de 10 Letras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

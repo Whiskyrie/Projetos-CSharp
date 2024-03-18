@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introdução", "Introdução\Introdução.csproj", "{31FADCC7-71BD-4CAF-BCC6-DA62306A4C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagemRegressiva", "ContagemRegressiva\ContagemRegressiva.csproj", "{B21CD7CB-E31B-44C1-8A16-19CF4D1D935A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo de Média", "Cálculo de Média\Cálculo de Média.csproj", "{C42489A6-3845-458C-B42E-8FF0E9AD9EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeProdutos", "CadastroDeProdutos\CadastroDeProdutos.csproj", "{7F84C233-5FA7-42EA-9BD7-9B1362A5F959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDeAdivinhação", "JogoDeAdivinhação\JogoDeAdivinhação.csproj", "{53D10D5D-7B6B-4EBD-BE7B-CF9A85141049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo Fatorial", "Cálculo Fatorial\Cálculo Fatorial.csproj", "{23E4454E-E82F-4326-928E-BBFB5CAA469D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerNúmerosDigitados", "LerNúmerosDigitados\LerNúmerosDigitados.csproj", "{801598BC-AB85-4B02-B714-B041C7E28F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FADCC7-71BD-4CAF-BCC6-DA62306A4C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FADCC7-71BD-4CAF-BCC6-DA62306A4C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FADCC7-71BD-4CAF-BCC6-DA62306A4C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FADCC7-71BD-4CAF-BCC6-DA62306A4C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21CD7CB-E31B-44C1-8A16-19CF4D1D935A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21CD7CB-E31B-44C1-8A16-19CF4D1D935A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21CD7CB-E31B-44C1-8A16-19CF4D1D935A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21CD7CB-E31B-44C1-8A16-19CF4D1D935A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42489A6-3845-458C-B42E-8FF0E9AD9EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42489A6-3845-458C-B42E-8FF0E9AD9EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42489A6-3845-458C-B42E-8FF0E9AD9EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42489A6-3845-458C-B42E-8FF0E9AD9EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F84C233-5FA7-42EA-9BD7-9B1362A5F959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F84C233-5FA7-42EA-9BD7-9B1362A5F959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F84C233-5FA7-42EA-9BD7-9B1362A5F959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F84C233-5FA7-42EA-9BD7-9B1362A5F959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D10D5D-7B6B-4EBD-BE7B-CF9A85141049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D10D5D-7B6B-4EBD-BE7B-CF9A85141049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D10D5D-7B6B-4EBD-BE7B-CF9A85141049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D10D5D-7B6B-4EBD-BE7B-CF9A85141049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E4454E-E82F-4326-928E-BBFB5CAA469D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E4454E-E82F-4326-928E-BBFB5CAA469D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E4454E-E82F-4326-928E-BBFB5CAA469D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E4454E-E82F-4326-928E-BBFB5CAA469D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801598BC-AB85-4B02-B714-B041C7E28F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801598BC-AB85-4B02-B714-B041C7E28F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801598BC-AB85-4B02-B714-B041C7E28F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801598BC-AB85-4B02-B714-B041C7E28F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

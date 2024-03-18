@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\refint\ContagemRegressiva.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\ContagemRegressiva\obj\Debug\net8.0\ref\ContagemRegressiva.dll

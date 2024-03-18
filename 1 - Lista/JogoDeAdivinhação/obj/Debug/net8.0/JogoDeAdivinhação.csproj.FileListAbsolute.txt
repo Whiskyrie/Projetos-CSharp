@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\bin\Debug\net8.0\JogoDeAdivinhação.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\bin\Debug\net8.0\JogoDeAdivinhação.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\bin\Debug\net8.0\JogoDeAdivinhação.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\bin\Debug\net8.0\JogoDeAdivinhação.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\bin\Debug\net8.0\JogoDeAdivinhação.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\JogoDeAdivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\JogoDeAdivinhação.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\JogoDeAdivinhação.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\JogoDeAdivinhação.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\JogoDeAdivinhação.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\refint\JogoDeAdivinhação.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\JogoDeAdivinhação.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\JogoDeAdivinhação.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\JogoDeAdivinhação\obj\Debug\net8.0\ref\JogoDeAdivinhação.dll

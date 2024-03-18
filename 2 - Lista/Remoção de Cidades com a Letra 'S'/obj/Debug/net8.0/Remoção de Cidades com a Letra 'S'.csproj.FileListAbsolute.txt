@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\bin\Debug\net8.0\Remoção de Cidades com a Letra 'S'.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\bin\Debug\net8.0\Remoção de Cidades com a Letra 'S'.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\bin\Debug\net8.0\Remoção de Cidades com a Letra 'S'.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\bin\Debug\net8.0\Remoção de Cidades com a Letra 'S'.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\bin\Debug\net8.0\Remoção de Cidades com a Letra 'S'.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\Remoção de Cidades com a Letra 'S'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\Remoção de Cidades com a Letra 'S'.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\Remoção de Cidades com a Letra 'S'.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\Remoção de Cidades com a Letra 'S'.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\Remoção de Cidades com a Letra 'S'.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\refint\Remoção de Cidades com a Letra 'S'.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\Remoção de Cidades com a Letra 'S'.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\Remoção de Cidades com a Letra 'S'.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Remoção de Cidades com a Letra 'S'\obj\Debug\net8.0\ref\Remoção de Cidades com a Letra 'S'.dll

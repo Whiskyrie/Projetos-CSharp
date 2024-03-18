@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\bin\Debug\net8.0\CadastroDeProdutos.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\bin\Debug\net8.0\CadastroDeProdutos.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\bin\Debug\net8.0\CadastroDeProdutos.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\bin\Debug\net8.0\CadastroDeProdutos.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\bin\Debug\net8.0\CadastroDeProdutos.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\CadastroDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\CadastroDeProdutos.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\CadastroDeProdutos.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\CadastroDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\CadastroDeProdutos.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\refint\CadastroDeProdutos.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\CadastroDeProdutos.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\CadastroDeProdutos.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\CadastroDeProdutos\obj\Debug\net8.0\ref\CadastroDeProdutos.dll

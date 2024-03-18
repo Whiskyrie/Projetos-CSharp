@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\bin\Debug\net8.0\Ordenação Alfabética de Frutas.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\bin\Debug\net8.0\Ordenação Alfabética de Frutas.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\bin\Debug\net8.0\Ordenação Alfabética de Frutas.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\bin\Debug\net8.0\Ordenação Alfabética de Frutas.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\bin\Debug\net8.0\Ordenação Alfabética de Frutas.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\Ordenação Alfabética de Frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\Ordenação Alfabética de Frutas.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\Ordenação Alfabética de Frutas.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\Ordenação Alfabética de Frutas.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\Ordenação Alfabética de Frutas.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\refint\Ordenação Alfabética de Frutas.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\Ordenação Alfabética de Frutas.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\Ordenação Alfabética de Frutas.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Ordenação Alfabética de Frutas\obj\Debug\net8.0\ref\Ordenação Alfabética de Frutas.dll

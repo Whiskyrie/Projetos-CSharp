@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\bin\Debug\net8.0\Introdução.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\bin\Debug\net8.0\Introdução.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\bin\Debug\net8.0\Introdução.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\bin\Debug\net8.0\Introdução.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\bin\Debug\net8.0\Introdução.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\Introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\Introdução.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\Introdução.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\Introdução.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\Introdução.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\refint\Introdução.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\Introdução.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\Introdução.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Introdução\obj\Debug\net8.0\ref\Introdução.dll

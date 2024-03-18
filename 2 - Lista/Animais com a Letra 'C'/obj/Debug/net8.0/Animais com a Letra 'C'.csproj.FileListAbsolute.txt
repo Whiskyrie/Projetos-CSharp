@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\bin\Debug\net8.0\Animais com a Letra 'C'.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\bin\Debug\net8.0\Animais com a Letra 'C'.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\bin\Debug\net8.0\Animais com a Letra 'C'.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\bin\Debug\net8.0\Animais com a Letra 'C'.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\bin\Debug\net8.0\Animais com a Letra 'C'.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\Animais com a Letra 'C'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\Animais com a Letra 'C'.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\Animais com a Letra 'C'.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\Animais com a Letra 'C'.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\Animais com a Letra 'C'.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\refint\Animais com a Letra 'C'.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\Animais com a Letra 'C'.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\Animais com a Letra 'C'.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\2 - Lista\Animais com a Letra 'C'\obj\Debug\net8.0\ref\Animais com a Letra 'C'.dll
