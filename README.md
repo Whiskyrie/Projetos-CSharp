@@ -22,7 +22,7 @@ Este repositório contém uma coleção de exercícios práticos em C# para auxi
 Aplicação prática integrando todos os conceitos estudados. (Será adicionado futuramente)
 
 ## Objetivo
-O principal objetivo deste repositório é fornecer uma ampla variedade de exercícios práticos para aprimorar habilidades em programação com C#.<br />
+O principal objetivo deste repositório é fornecer uma ampla variedade de exercícios práticos para aprimorar habilidades em programação com C#.
 Os exercícios abordam diferentes conceitos, como estruturas de controle, arrays, strings, operações matemáticas e lógica de programação.
 
 ## Contribuições
