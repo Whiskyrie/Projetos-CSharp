@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\Cálculo de Média\\Cálculo de Média.csproj",
+      "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\Cálculo de Média\\Cálculo de Média.csproj",
       "projectName": "Cálculo de Média",
-      "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\Cálculo de Média\\Cálculo de Média.csproj",
+      "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\Cálculo de Média\\Cálculo de Média.csproj",
       "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\Cálculo de Média\\obj\\",
+      "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\Cálculo de Média\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evand\\AppData\\Roaming\\NuGet\\NuGet.Config"

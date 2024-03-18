@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj": {}
+    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj": {
+    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj",
+        "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj",
         "projectName": "ContagemRegressiva",
-        "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj",
+        "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\ContagemRegressiva\\ContagemRegressiva.csproj",
         "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\ContagemRegressiva\\obj\\",
+        "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\ContagemRegressiva\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\evand\\AppData\\Roaming\\NuGet\\NuGet.Config"

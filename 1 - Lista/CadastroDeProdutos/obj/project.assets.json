@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\CadastroDeProdutos\\CadastroDeProdutos.csproj",
+      "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\CadastroDeProdutos\\CadastroDeProdutos.csproj",
       "projectName": "CadastroDeProdutos",
-      "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\CadastroDeProdutos\\CadastroDeProdutos.csproj",
+      "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\CadastroDeProdutos\\CadastroDeProdutos.csproj",
       "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\CadastroDeProdutos\\obj\\",
+      "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\CadastroDeProdutos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evand\\AppData\\Roaming\\NuGet\\NuGet.Config"

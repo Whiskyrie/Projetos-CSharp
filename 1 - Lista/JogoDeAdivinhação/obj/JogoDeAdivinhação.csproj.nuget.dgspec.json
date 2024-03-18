@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj": {}
+    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj": {
+    "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj",
+        "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj",
         "projectName": "JogoDeAdivinhação",
-        "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj",
+        "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\JogoDeAdivinhação\\JogoDeAdivinhação.csproj",
         "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\JogoDeAdivinhação\\obj\\",
+        "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\JogoDeAdivinhação\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\evand\\AppData\\Roaming\\NuGet\\NuGet.Config"

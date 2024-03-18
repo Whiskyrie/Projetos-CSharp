@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\LerNúmerosDigitados\\LerNúmerosDigitados.csproj",
+      "projectUniqueName": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\LerNúmerosDigitados\\LerNúmerosDigitados.csproj",
       "projectName": "LerNúmerosDigitados",
-      "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\LerNúmerosDigitados\\LerNúmerosDigitados.csproj",
+      "projectPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\LerNúmerosDigitados\\LerNúmerosDigitados.csproj",
       "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\1 - Lista\\LerNúmerosDigitados\\obj\\",
+      "outputPath": "C:\\Users\\evand\\OneDrive\\Documentos\\Projetos C#\\Projetos-CSharp\\1 - Lista\\LerNúmerosDigitados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evand\\AppData\\Roaming\\NuGet\\NuGet.Config"
