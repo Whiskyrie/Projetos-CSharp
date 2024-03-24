@@ -1,0 +1,15 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\bin\Debug\net8.0\6 - Atividade.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\bin\Debug\net8.0\6 - Atividade.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\bin\Debug\net8.0\6 - Atividade.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\bin\Debug\net8.0\6 - Atividade.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\bin\Debug\net8.0\6 - Atividade.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.sourcelink.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\refint\6 - Atividade.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\6 - Atividade.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Projetos-CSharp\3 - Lista\6 - Atividade\obj\Debug\net8.0\ref\6 - Atividade.dll
