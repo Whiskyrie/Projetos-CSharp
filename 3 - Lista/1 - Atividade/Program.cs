@@ -1,9 +1,9 @@
-﻿class Pessoa(string nome, int idade, double altura)
+﻿class Pessoa
 {
     // Propriedades
-    public string Nome { get; set; } = nome;
-    public int Idade { get; set; } = idade;
-    public double Altura { get; set; } = altura;
+    public required string Nome { get; set; }
+    public int Idade { get; set; }
+    public double Altura { get; set; }
 
     // Método para imprimir os dados
     public void ImprimirDados()
@@ -18,8 +18,35 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Criando uma instância da classe Pessoa e imprimindo os dados
-        Pessoa pessoa1 = new("João", 30, 1.75);
+        // Solicitar dados ao usuário
+        Console.Write("Digite o nome da pessoa: ");
+        string nome = Console.ReadLine() ?? string.Empty;
+
+        Console.Write("Digite a idade da pessoa: ");
+        int idade = 0;
+        while (!int.TryParse(Console.ReadLine(), out idade))
+        {
+            Console.WriteLine("Entrada inválida. Digite um número inteiro para a idade.");
+            Console.Write("Digite a idade da pessoa: ");
+        }
+
+        Console.Write("Digite a altura da pessoa: ");
+        double altura;
+        while (!double.TryParse(Console.ReadLine(), out altura))
+        {
+            Console.WriteLine("Entrada inválida. Digite um número decimal para a altura.");
+            Console.Write("Digite a altura da pessoa: ");
+        }
+
+        // Criando uma instância da classe Pessoa com os dados do usuário
+        Pessoa pessoa1 = new()
+        {
+            Nome = nome,
+            Idade = idade,
+            Altura = altura
+        };
+
+        // Imprimindo os dados
         pessoa1.ImprimirDados();
     }
 }
