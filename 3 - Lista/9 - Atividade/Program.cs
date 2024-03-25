@@ -7,7 +7,7 @@
     public double CalcularDesconto()
     {
         double desconto;
-        if (Ano < 2010)
+        if (Ano <= 2010)
         {
             desconto = Preco * 0.1; // 10% de desconto
         }
@@ -28,11 +28,11 @@ class Program
         {
             Console.Write("Digite o modelo do carro: ");
             modelo = Console.ReadLine() ?? string.Empty;
-            if (string.IsNullOrWhiteSpace(modelo))
+            if (string.IsNullOrEmpty(modelo))
             {
                 Console.WriteLine("O modelo não pode ser vazio ou conter apenas espaços em branco.");
             }
-        } while (string.IsNullOrWhiteSpace(modelo));
+        } while (string.IsNullOrEmpty(modelo));
 
         int ano;
         Console.Write("Informe o ano do carro: ");
