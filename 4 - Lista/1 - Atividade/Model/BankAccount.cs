@@ -15,14 +15,16 @@ public class BankAccount(string numeroConta, Cliente titular)
         Saldo += valor;
         Transacoes.Add(new Transacao(valor, TipoTransacao.Deposito));
     }
-
-    public void Sacar(decimal valor)
+    public bool Sacar(decimal valor)
     {
-        if (valor > Saldo)
-            throw new Exception("Saldo insuficiente.");
+        if (valor <= 0 || valor > Saldo)
+        {
+            return false; // Saque inválido
+        }
 
-        Saldo -= valor;
+        Saldo -= valor; // Deduz o valor do saldo
         Transacoes.Add(new Transacao(valor, TipoTransacao.Saque));
+        return true; // Saque bem-sucedido
     }
 
     public void Transferir(decimal valor, BankAccount contaDestino)

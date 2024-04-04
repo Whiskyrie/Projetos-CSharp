@@ -81,5 +81,55 @@ namespace Model
 
             Console.WriteLine("Conta criada com sucesso!");
         }
+        public static void Depositar(List<BankAccount> contas)
+        {
+            Console.Write("Número da Conta: ");
+            string? numeroConta = Console.ReadLine();
+
+            BankAccount? conta = contas.Find(c => c.NumeroConta == numeroConta);
+            if (conta == null)
+            {
+                Console.WriteLine("Conta não encontrada.");
+                return;
+            }
+
+            Console.Write("Valor a ser depositado: ");
+            if (!decimal.TryParse(Console.ReadLine(), out decimal valorDeposito) || valorDeposito <= 0)
+            {
+                Console.WriteLine("Valor de depósito inválido.");
+                return;
+            }
+
+            conta.Depositar(valorDeposito);
+            Console.WriteLine($"Depósito de {valorDeposito:C} realizado com sucesso na conta {conta.NumeroConta}.");
+        }
+        public static void Sacar(List<BankAccount> contas)
+        {
+            Console.Write("Número da Conta: ");
+            string? numeroConta = Console.ReadLine();
+
+            BankAccount? conta = contas.Find(c => c.NumeroConta == numeroConta);
+            if (conta == null)
+            {
+                Console.WriteLine("Conta não encontrada.");
+                return;
+            }
+
+            Console.Write("Valor a ser sacado: ");
+            if (!decimal.TryParse(Console.ReadLine(), out decimal valorSaque) || valorSaque <= 0)
+            {
+                Console.WriteLine("Valor de saque inválido.");
+                return;
+            }
+
+            if (conta.Sacar(valorSaque))
+            {
+                Console.WriteLine($"Saque de {valorSaque:C} realizado com sucesso na conta {conta.NumeroConta}.");
+            }
+            else
+            {
+                Console.WriteLine("Saldo insuficiente para realizar o saque.");
+            }
+        }
     }
 }

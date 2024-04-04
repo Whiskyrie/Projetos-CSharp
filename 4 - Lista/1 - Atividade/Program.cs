@@ -1,1 +1,8 @@
-﻿
+﻿using Model;
+
+
+namespace Cadastro
+{
+
+
+}
