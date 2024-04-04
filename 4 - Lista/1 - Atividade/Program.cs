@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Model; // Importando o namespace onde as classes BankAccount e BankOperations estão definidas
+﻿using Model; // Importando o namespace onde as classes BankAccount e BankOperations estão definidas
 
 namespace Cadastro
 {
