@@ -1,6 +1,7 @@
-﻿using Model; // Importando o namespace onde as classes BankAccount e BankOperations estão definidas
+﻿
+using Model;
 
-namespace Cadastro
+namespace SistemaDoBanco
 {
     class Program
     {
@@ -15,7 +16,8 @@ namespace Cadastro
                 Console.WriteLine("1. Criar Conta");
                 Console.WriteLine("2. Depositar");
                 Console.WriteLine("3. Sacar");
-                Console.WriteLine("4. Sair");
+                Console.WriteLine("4. Mostrar Saldo");
+                Console.WriteLine("5. Sair");
                 Console.Write("Escolha uma opção: ");
 
                 string? escolha = Console.ReadLine();
@@ -41,6 +43,10 @@ namespace Cadastro
                         BankOperations.Sacar(contas);
                         break;
                     case "4":
+                        Console.WriteLine("\n### Mostrar Saldo ###");
+                        MostrarSaldo(contas);
+                        break;
+                    case "5":
                         Console.WriteLine("Saindo do programa...");
                         return; // Encerra o programa
                     default:
@@ -52,6 +58,21 @@ namespace Cadastro
                 Console.ReadKey();
                 Console.Clear(); // Limpa a tela para o próximo menu
             }
+        }
+
+        static void MostrarSaldo(List<BankAccount> contas)
+        {
+            Console.Write("Número da Conta: ");
+            string? numeroConta = Console.ReadLine();
+
+            BankAccount? conta = contas.Find(c => c.NumeroConta == numeroConta);
+            if (conta == null)
+            {
+                Console.WriteLine("Conta não encontrada.");
+                return;
+            }
+
+            Console.WriteLine($"Saldo da conta {conta.NumeroConta}: {conta.Saldo:C}");
         }
     }
 }

@@ -2,7 +2,7 @@ using System.Reflection.Metadata;
 
 namespace Model
 {
-    public static class BankOperations
+    public class BankOperations
     {
         public static void CriarConta(List<Cliente> clientes, List<BankAccount> contas)
         {

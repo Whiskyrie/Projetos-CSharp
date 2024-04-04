@@ -1,9 +1,6 @@
 namespace Model;
 public class BankAccount(string numeroConta, Cliente titular)
 {
-    private readonly int numeroConta;
-    private readonly Cliente? cliente;
-
     public string NumeroConta { get; } = numeroConta;
     public decimal Saldo { get; private set; } = 0;
     public Cliente Titular { get; private set; } = titular;
