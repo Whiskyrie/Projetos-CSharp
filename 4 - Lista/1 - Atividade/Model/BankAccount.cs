@@ -4,7 +4,6 @@ public class BankAccount(string numeroConta, Cliente titular)
     public string NumeroConta { get; } = numeroConta;
     public decimal Saldo { get; private set; } = 0;
     public Cliente Titular { get; private set; } = titular;
-
     private List<Transacao> Transacoes { get; } = [];
 
     public void Depositar(decimal valor)
@@ -12,6 +11,7 @@ public class BankAccount(string numeroConta, Cliente titular)
         Saldo += valor;
         Transacoes.Add(new Transacao(valor, TipoTransacao.Deposito));
     }
+
     public bool Sacar(decimal valor)
     {
         if (valor <= 0 || valor > Saldo)

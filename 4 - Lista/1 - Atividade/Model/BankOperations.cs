@@ -66,8 +66,8 @@ namespace Model
                 return;
             }
 
-            Endereco enderecoObj = new() { Logradouro = endereco, Cidade = cidade, CEP = cep, Estado = estado, Pais = pais }; // Set Cidade
-            Cliente cliente = new(nome, enderecoObj, email);
+            Endereco.EnderecoResidencial = new Endereco { Logradouro = endereco, Cidade = cidade, CEP = cep, Estado = estado, Pais = pais };
+            Cliente cliente = new(nome, Endereco.EnderecoResidencial, email);
             clientes.Add(cliente);
 
             Console.Write("Número da Conta: ");
